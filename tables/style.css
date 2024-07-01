@@ -1,0 +1,40 @@
+
+.tableA, th, td {
+    border: 2px solid rgb(239, 84, 211);
+    border-collapse: collapse;
+  }
+.table1head{
+    background-color: rgb(149, 227, 31);
+}
+.greyhead{
+    background-color: silver;
+}
+.mail{
+    background-color: rgb(255, 96, 99);
+    text-align: center;
+}
+
+.table2, .table2th, .table2td {
+    border: 5px solid rgb(218, 174, 0);
+    border-collapse: collapse;
+}
+
+.table3, .table3th, .table3td {
+    border: 5px solid rgb(0, 21, 211);
+    border-collapse: collapse;
+}
+
+.table4, .table4th, .table4td {
+    border: 5px solid rgb(9, 138, 22);
+    border-collapse: collapse;
+}
+
+.table5, .table5th, .table5td {
+    border: 5px solid rgb(255, 24, 24);
+    border-collapse: collapse;
+}
+
+.lastrow{
+    display: flex; 
+    justify-content: space-around;
+}
